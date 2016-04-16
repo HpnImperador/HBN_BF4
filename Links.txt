@@ -1,0 +1,14 @@
+https://forum.myrcon.com/forumdisplay.php?13-Plugins
+
+Ultima verção do Procon: 
+http://cdn.myrcon.com/procon1/procon_1.5.1.1.zip
+
+Metabans Plugin: 
+http://metabans.com/plugin/
+
+insane-limits : 
+https://github.com/PapaCharlie9/insane-limits/releases
+
+multi-balancer : 
+https://github.com/PapaCharlie9/multi-balancer
+
